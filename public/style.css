@@ -1,0 +1,21 @@
+.container{
+    background-color: #f5f5f5;
+    margin: 50px;
+    padding: 30px;
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
